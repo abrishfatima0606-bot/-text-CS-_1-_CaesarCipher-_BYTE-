@@ -13,3 +13,5 @@ This Python application implements a Caesar Cipher tool capable of encrypting an
 Run the program in your terminal:
 ```bash
 python caesar_cipher.py
+<img width="628" height="94" alt="Screenshot 2026-09-25 213015" src="https://github.com/user-attachments/assets/edbd2226-5cad-4d82-9fc4-5384a30467f8" />
+
